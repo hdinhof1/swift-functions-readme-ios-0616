@@ -7,7 +7,6 @@ sayHello()
 sayHello()
 
 // Uncomment this line to see the error that is printed in the console.
-// (You can uncomment a line by removing the // at the beginning of the line.)
 //print(greeting)
 
 
